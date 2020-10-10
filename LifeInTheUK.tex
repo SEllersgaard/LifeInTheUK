@@ -1,0 +1,426 @@
+\documentclass[10pt,reqno]{amsart}
+\usepackage{amssymb, url}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage[ansinew]{inputenc}
+\usepackage{enumerate}
+\title[]{The ``Life in the UK'' Test \\ - A Field Guide}
+\author{Simon Ellersgaard}
+\date{\today}
+\setlength\parindent{0pt}  
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref}
+\usepackage{subfigure}
+\usepackage[left=4cm,right=4cm,top=4.2cm,bottom=4.2cm,bindingoffset=0cm]{geometry}
+%\usepackage[left=3cm,right=3cm,top=3.5cm,bottom=3.5cm,bindingoffset=0cm]{geometry}
+\usepackage{mdframed}
+\newmdtheoremenv{theo}{Theorem}
+\makeatletter
+\newenvironment{tablehere}
+  {\def\@captype{table}}
+  {}
+
+\newenvironment{figurehere}
+  {\def\@captype{figure}}
+  {}
+\makeatother
+
+
+
+\begin{document}
+
+\maketitle
+
+
+\section{General Advice}
+
+\subsection{On the nature of the test} The test is computer-based and consists of 24 multiple choice questions based entirely on the book ``Life in the United Kingdom - A Guide for New Residents''. The time limit is 45 minutes. In practice it will take you about a handful of minutes depending on how meticulously you decide on checking your answers. To pass you need to answer at least 75\% (18 questions) correctly.
+Questions appear to be uniformly sampled from the textbook. Indeed, they appear to be randomly drawn from a question bank, meaning that everybody gets a different test. 
+It is not entirely clear whether they control for the level of difficulty. In a fair world every test should consist of the same proportion of difficult questions. However, I would not necessarily trust this to be the case.
+
+\subsection{Is it difficult?} Difficult enough that the average Brit is likely to fail. Easy enough that you will pass if you have an average capacity for rote memorization, have read the textbook once or twice, and have answered all the questions in the ``Life in the United Kingdom - Official Practice Questions and Answers'' book satisfactorily. Note that there are a number of unauthorised websites such as \url{https://lifeintheuktests.co.uk/life-in-the-uk-test/} with abundant mock exams. The general consensus seems to be that these tests are harder than the official ones. If you have the inclination, you can take these tests as a challenge. However, do not be dismayed if your performance here falls short of your performance on the official practice questions.    
+
+\hspace{5mm} Allegedly upwards of 20\% of testees actually fail. While this may sound like a lot, do bear in mind that the testing demographic here truly is representative ...
+
+
+\subsection{Will I really need to remember that Margaret Thatcher was from Linconshire and that Evelyn Waugh died in 1966?} Probably not. You will definitely be asked about locations and years, but in proportion to their historical and cultural significance. Case in point you will need to know that Snowdonia is in Wales and the 2012 Olympics took place in London. Likewise, that the Magna Carta was codified in 1215 and that the suffragettes secured women's right to vote in 1918 (30+) and 1928 (21+).  
+
+
+\subsection{Am I ready?} You can treat this question probabilistically. There are 17 tests in the practice test book. Let $p$ be the average proportion of questions you get right across the tests. Then the probability of you passing is given by the binomial distribution
+
+\[
+\mathbb{P}(\text{pass}) = \sum_{k=18}^{24} \binom{24}{k} p^k (1-p)^{24-k}.
+\] 
+This suggests that if you want to be more than 95\% confident that you'll pass you should aim for $p=21/24$. 
+
+\subsection{Booking a test} Tests should be arranged through the official government website \url{https://www.gov.uk/life-in-the-uk-test}. The price is presently \pounds 50. Make a note of your username and password (they will come in handy when checking your results!). My impression is that the booking system is not top-notch. Specifically my partner and I both faced the following issue: initially there were no available test dates for several months. Some minutes later we checked again, only to be faced with an abundance of opportunities in the nearer future. On the bright side, changing your testing date is a comparatively straightforward process.  
+
+\subsection{On the day of the exam} Prepare to arrive 30 minutes before your chosen testing time. We arrived in a timely manner only to be faced with a locked door with no sign of life beyond the cacophony of an upstairs jackhammer. Apparently this is standard practice (bar the hammer). Once the invigilators had it in their hearts to let us in, we found ourselves in a situation broadly reminiscent of Alex [Malcolm McDowell] facing the Chief Prison Guard [Michael Bates] in Kubrick's \textit{A Clockwork Orange}... largely deprived of human dignity and not ``suffered gladly'' as it were (yes, you will be frisked for crib sheets and cellular devices!). Indubitably, this level of disdain was further exacerbated by the governmentally sanctioned anti-Covid measures which involve a mandatory squirt with antiseptic gel and the observance of social distancing carried to the extreme (my partner and I were told off for standing too close together). 
+
+\hspace{5mm} For the actual test we were sequentially led into a small computer room and placed at a suitable distance from one another. Certain non-obvious rules must be observed such as keeping \textit{both} hands above desk level throughout the test. To get the blood flowing, one must initially answer a handful of practice questions that do not contribute towards the exam score. Beyond giving you a whiff of whats to come it is presumably also their way of testing out new material. As my test progressed the computer intermittently went into ``can't connect to server''-mode. Again, this seems to be a common anomaly which can be rectified by hitting the F5 key and answering the question again.         
+
+\hspace{5mm} Upon submitting your final answers you will not immediately get your result. Rather, you'll be taken into a small waiting area, and ultimately given permission to collect your belongings and leave. Within 15 minutes or so you'll receive an email with instructions to log into the account you set up when you booked your test. This will tersely tell you whether you've passed or failed but nothing beyond this. There is no other way of getting your result (your invigilators won't know). 
+
+
+
+\subsection{And if I fail?} Life will present you with bigger tragedies. You'll have to re-book your test and pay the fee all over again. Repeat until you succeed. 
+
+\vspace{5mm}
+
+Good luck!
+
+
+
+
+
+%---------------
+
+\newpage
+
+\section{A Cursory Review of the Syllabus}
+
+
+
+The following notes form an incomplete yet essential guide to material likely to be covered in the exam. Emphasis on incomplete: these notes were written to aid my \textit{personal} recollection.
+
+
+
+
+\subsection{The UK and ``Friends''}
+
+\begin{enumerate}[i]
+\item United Kingdom of Great Britain (England, Scotland, \& Wales) and Northern Ireland. 
+\item Scotland, Wales, and Northern Ireland have parliaments with devolved powers. 
+\item Crown dependencies: Channel Islands and Isle of Man
+\item Overseas Territories: St Helena and Falkland Islands.
+\item There are 52 member states in the Commonwealth.  
+\end{enumerate}
+
+
+
+\subsection{A Long and Illustrious History}
+ 
+
+
+\subsubsection{Early Britain}
+
+\begin{enumerate}[i]
+\item 10,000 years ago:
+Stone age Britain. Hunter-gatherers. Came when Britain was fused with the continent. 
+\item 6,000 years ago:
+First farmers, Stonehenge 
+\item 4,000 years ago:
+Bronze age
+\item 2,500 years ago
+Iron ago 
+\item Romans:
+55 BC failed invasion by Caesar
+43 AD successful invasion by Claudius, lasted till 410 AD. Scotland never conquered. 
+First Christian communities. Romans left to defend other parts of empire. 
+Hadrian's wall kept out the Picts (Scots)
+\item Year 600: Invasion from Northern tribes, Jutes, Angels, and Saxons (-Wales, - Scotland). Anglo-Saxons were converted to Christianity by missionaries. Anglo-Saxon is basis for modern day English language. 
+\item Year 789: Partial (east/north) invasion by Vikings from Norway and Denmark.  Danish king Cnut only briefly. 
+\item Year 1066. Norman conquest by William the Conqueror (from Normandy), mainly England. Norman French influenced English language. Final conquest. Battle of Hastings (English army lost) documented in the Bayeux Tapestry. William ordered a survey of England (the Domesday book). 
+\end{enumerate}
+
+
+\subsubsection{Middle Ages}
+
+
+\begin{enumerate}[i]
+\item Up to 1485: middle ages. 
+England fought with Wales and Scotland and Ireland. They also fought abroad in the crusades. There was a war with France, the 100 Years War (116 years), where England eventually won. Stayed in France but left 1450s. 
+\item 1348: Black death (plague) which killed 1/3 of population
+\item 1215: First hint of a parliament. Mange Carta developed, in which the King's powers were limited. He now had to consult with the nobility. 
+Lords: Landowners and bishops.
+Commons: knights. 
+\item Similar structure arose in Scotland. 
+Fist legal system (judges) ruling independently based on precedence. 
+\item Anglo-Saxon (peasants) fused with Norman-French (nobility) to form English. Canterbury tales printed by Caxton. 
+\item 1455: Civil war (of the roses) Lancaster (red) and York (white). Tudor won (red) but cross marriage (now allies). 
+\end{enumerate}
+
+\subsubsection{The Tudors}
+
+
+\begin{enumerate}[i]
+\item Henry VII limited the powers of the nobility. 
+\item Henry VIII (1491-1547) broke away from Catholic Church to get a divorce. Same time: reformation/Protestantism on the continent. Wales reunited with England.
+Henry had six wives (2nd wife Anne Boleyn famously executed in Tower of London). 
+\item Ireland fought over attempts to impose Protestantism 
+\item Henry's son Edward (from 3rd wife) died early. Edward's half-sister ``Bloody'' Mary (from 1st wife) took over. She was Catholic and persecuted Protestants. She also died early and Elizabeth (from 2nd wife) came to power. She was protestant and made peace / restored church of England. 
+\item (Catholic) Mary queen of Scots fled after she was accused of murdering her husband. Her cousin Elizabeth I didn't trust her motives and locked her up in Tower of London for 20 years + execution. 
+\item Shakespeare 1564-1616. Globe theater. 
+\item 1603: when Elizabeth died her cousin from Scotland king James VI became king James I of England. King James bible. 
+In Catholic Ireland, England was in control by now. Irish people opposed Protestantism. English government encouraged Protestants to settle in Ulster (Northern Ireland), taking over land from Catholics. ``Plantations''. James organized several such plantations - seed for Irish conflict.
+\item James and son Charles I managed parliament poorly
+Charles ruled without them for 11 years. He tried to impose a prayer book on Presbyterian church in Scotland invading England. Charles asked Parliament for help, but the Puritan members said no. 
+Ireland: another rebellion by Roman Catholics. Parliament now demanded control of British army. Charles entered parliament (last monarch to do so) to arrest Puritan members but they had fled.  Civil war broke out in 1642. 
+\item King Charles lost and was executed in 1649. 
+England became a Republic (Commonwealth)
+General Oliver Cromwell went to Ireland to defeat royalist army / establish parliamentary rule. Very bloody.
+In Scotland Charles son (Charles II) was proclaimed king. Started invasion of England. Cromwell beat him and Charles II fled to Europe (hiding in oak tree). Cromwell now ruled as Lord Protector till his death. 
+\item 1660 Charles II back, friend of parliament. Habeas Corpus act (right to court hearing). Formed Royal society. Isaac Newton.   
+
+\item Charles II succeeded by brother James II who liked Catholicism.
+James II's daughter Mary married to Protestant William of Orange (Netherlands). William asked by protestants in England to invade. Led to Glorious Revolution / no fighting / restoring parliament. James II went to France. He briefly invaded Ireland with French army but was defeated. Also some support for James in Scotland. 
+\end{enumerate}
+
+
+\subsubsection{A Global Power}
+
+\begin{enumerate}[i]
+\item Under William and Mary ``constitutional monarchy''. 
+\item 1689: Bill of Rights / limits king's powers. 
+\item 1695: newspapers allowed to operate without government license.
+\item Two party system 
+\item Queen Anne (daughter of William and Mary) no surviving children.
+Act of Union agreed in 1707 creating Kingdom of Great Britain. Scotland, although no longer independent, got to keep Presbyterian church. 
+\item Anne's nearest protestant relative, German George I, became king. He had to rely on a Prime minister (Walpole - the first!).
+\item George I's son George II had to deal with clan rebellion in Scotland. Clans lost. After that Highland Clearance wherein small farms destroyed to make way for sheep and cattle. Many Scottish left for North America. 
+Robert Burn (1759-96) famous Scottish poet - Auld Lang Syne. 
+\item Enlightenment: 
+Adam Smith - economics, David Hume - Philosophy, James Watt - steam engine 
+\item Industrial revolution - from farm to factory. 18th century
+Arkwright - factory owner, known for carding (spinning yarn) machine. 
+Poor working conditions. 
+Captain Cook mapped Australia. 
+Britain trades all over the world. From India to North America. 
+\item Slave trade help Britain prosper in the colonies. Not allowed in UK. British ships took West Africans to America and Caribbean under horrible conditions. Wilberforce helped making slave trading illegal (1807). 1833 Emancipation Act abolishes slavery throughout British Empire. 
+\item US war of independence. Tired of UK imposing tax on colonies. 1776 13 American colonies declared independence. Colonies eventually defeated British army and Britain recognised independence in 1783. 
+\item War with France. British navy won Battle of Trafalgar in 1805 (Lord Nelson died)
+1815 war ended with Battle of Waterloo (Napoleon out, Duke of Wellington in). This so-called Iron Duke later became PM.
+\item Union Jack = English + Irish + Scottish flags 
+\item 1837 Queen Victoria came to power. Ruled for 64 years. British Empire expanded. 400 million people. India, Australia, large parts of Africa. Working conditions improved. Free trade. Railways build throughout Empire. Brunel was an engineer who build Great Western Railway. Britain produced half of world's iron, coal, cotton. 1851 Great Exhibition in Hyde Park's Crustal Palace. 
+\item Crimean War. 1853-1856. Britain + Turkey + France against Russia. 
+Florence Nightingale (founder of modern nursing) helped wounded soldiers in Turkey. 
+\item 19th  century Ireland. Poor. Great potato famine one year led to 1M people dead from starvation and disease. Immigration to US and England. Irish nationalism grew. 
+\item Voting:
+1832 and 1867 saw reform acts that gave more people the right to vote. 
+1870s saw women's right to keep property after marriage. 
+Emmeline Pankhurst famous suffragette. 1918 women over 30 could vote. 1928 women over 21 could vote. 
+\item Boer War in South Africa 1899-1902 ... people started questioned the future of the Empire.  
+\end{enumerate}
+
+
+
+\subsubsection{20th Century}
+
+
+\begin{enumerate}[i]
+\item Early 20th century life good / elements of welfare state such as free school meals. 
+\item 1914 Archduke of Austria assassinated. Led to WW1 (14-18) together with nationalism in European states. 
+Allied: UK, France, Russia, Japan, Belgium, Serbia, Greece, Italy, Romania, US. 
+Also British Empire by and large. 
+Against: Central Powers: Germany, Austro-Hungarian Empire, Ottoman Empire, Bulgaria.
+2 million died. Allies won 11AM 11 Nov 1918.
+\item Partition of Ireland:
+1913 Britain promised Home Rule to Ireland (to the dismay of Northern protestants). Due to WW1 this got postponed (to the dismay of Irish nationalist). 1916: Easter rising. Leaders executed under military law. Then guerrilla war against British army. 1921 peace treaty, 1922 Ireland became two countries. Republic of Ireland in 1949. 
+The \textit{troubles} began in Northern Ireland in the 1960s, as a continued disagreement over NI unionist/loyalist tendencies towards the UK. Ended in Good Friday agreement in 1998. 
+\item Interwar period. Great depression, but some industries such as automobile / aviation ok. BBC radio started in 1922. TV in 1936.
+\item Hitler to power in 1933, largely due to fines imposed on Germany from Allies after WW1. Hitler invaded Poland in 1939. Britain and France declared war. 
+Allies: UK, France, Poland, Australia, NZ, Canada, SA. 
+Fascists: Germany, Italy, Japan
+Hitler invaded Belgium Netherlands, moved into France. 
+1940 Churchill became PM. 
+1940 Dunkirk evacuation of 300k men from France.
+Blitz over London.
+Japan defeated UK in Singapore.
+1941: Germany attempted invasion of Soviet Union. 
+1941: Japan bombed Pearl Harbour Hawaii. US got involved. 
+Gradually Allies gained control. End of war May 1945. 
+August 45: US nuked Japan. 
+\item 1928: Alexander Fleming discovered penicillin. 
+\end{enumerate}
+
+
+\subsubsection{Since 1945}
+
+\begin{enumerate}[i]
+\item 1945: Clement Attlee became Labour PM. Created the NHS. 
+\item 1947: Independence granted to nine countries: India, Pakistan, Sri Lanka, ...
+\item 1949: Joined NATO to resist Soviet Union. 
+\item William Beveridge: Liberal MP behind 1942 report Social Insurance and Allied Services. Foundation of modern welfare state.
+\item Richard Butler: Conservative MP behind the 1944 Education Act which introduced free secondary education in England and Wales. 
+\item Dylan Thomas. Welsh poet behind Under Milk Wood and Do Not Go Gentle. Performed on BBC. 
+\item Migration: after WW2 people from Ireland and West Indies came to help rebuild Britain.
+1950s + 25 years: workers from West Indies, India, Pakistan, Bangladesh came to help. 
+\item 1960s: swinging 60s, social reform, divorce and abortion legalized. Equal rights for women in workplace. Supersonic concorde airline with France. Some restrictions to immigration. 
+\item 1970s: recession, inflation, unstable currency. Unions too powerful - hurting UK? Serious unrest in Northern Ireland. 
+Mary Peters Olympic gold medallist who promoted sports in Northern Ireland. 
+\item 1973: UK joins the European Economic Community (EEC) - aka the EU. 
+\item 1979-1997: Conservative governments. First Thatcher (> 11 years), then Major (> 6 years). Former: deregulation, privatisation, curb trade unions, Falkland war. Latter: helped Northern Ireland peace process. 
+\item Roald Dahl: children's author. Charlie and the Chocolate Factory etc. 
+\item 1997-2007: Labour PM Tony Blair. Introduced Scottish parliament and Welsh assembly. Good Friday agreement in Northern Ireland. War in Afghanistan and Iraq. 
+\item 2007-2010: Gordon Brown (L).
+\item 2010-2016: David Cameron (C). Coalition government with Lib Dem. First since 1974. 
+\item 2016-2019: Theresa May (C). Then Boris Johnson. 
+\end{enumerate}
+
+
+
+\subsection{A Modern, Thriving Society}
+
+\subsubsection{The UK today} Population 2010: 62 Mill UK. Aging population. 
+
+\subsubsection{Religion}
+
+\begin{enumerate}[i]
+\item 59\% Christian, 4.8\% Muslim, 1.5\% Hindu, 0.8\% Sikh, 0.5\% Jew/Buddhist 
+\item Monarch head of church of England, protestant (since 1530s). Spiritual head: Archbishop of Canterbury (monarch has right to select, but usually done by PM)
+\item Scotland - Presbyterian church. NO established church of Wales and NI. 
+\item 1 March: St David Day (Wales)
+17 March: St Patrick Day (NI)
+23 April: St George Day (England)
+30 November: St Andrew Day (Scotland)
+\item 
+Diwali - Festival of Lights, October or November.
+Hannukah - Jews struggle for religious freedom, 8 days (8 candles, Menorah).
+Eid al-Fitr - End of Ramadan.
+Eid ul Adha - Celebrates Abrhaham's willingness to sacrifice his son Isaac to God.
+\end{enumerate}
+
+
+\subsubsection{Customs and traditions} Mother's day: Sunday 3 weeks before Easter
+Father's day: third Sunday in June.
+Bonfire Night: 5th November. 1605 Catholic attempted bombing of Parliament (Guy Fawkes lead)
+Remembrance Day: 11th November. WW1 ended 11/11 1918 at 11AM. 
+
+
+\subsubsection{Sport}
+
+\begin{enumerate}[i]
+\item Cricket: Ashes = test match between England and Australia. Up to 5 days match.
+\item Football: Most popular. Clubs since 19th century. English Premier League. Clubs against other clubs from other countries: UEFA Champions League. Nations against nations: FIFA and UEFA European Championship. 
+\item Rugby: clubs since 19th century. Six Nations Championship. Super League. 
+\item Horse racing: Royal Ascot. Grand National (Aintree, Liverpool and Ayr, Scotland).
+\item Golf: Open Championship.
+\item Tennis: started 19th century. Wimbledon most famous. Only Grand Slam event played on grass.
+\item Water sports: Sir Francies Chicester first to sail around the world. Annual Oxbridge rowing race. 
+\item Motor: Annual Formula 1 Grand Prix in Britain. Winnes: Hill, Hamilton, Button. 
+\item Ski: Five ski centres in Scotland.
+\item Noted celebrities: 
+\begin{itemize}
+\item Roger Bannister (runner)
+\item Jackie Stewart (formula 1)
+\item Bobby Moore (football)
+\item Ian Botham (cricket)
+\item Torvill and Dean (ice skating) 
+\item Steve Redgrave (sailing)
+\item Baroness Grey-Thompson (Paralympian)
+\item Kelly Holmes (runs)
+\item Ellen MacArthur (sails)
+\item Chris Hoy (cyclist)
+\item David Weir (Paralympian)
+\item Bradley Wiggins (cyclist)
+\item Mo Farah (distance running)
+\item Ennis-Hill (heptathlon)
+\item Andy Murray (tennis)
+\item Ellie Simmonds (swimmer)
+\end{itemize}
+\end{enumerate}
+
+
+\subsubsection{Arts and Culture}
+
+\paragraph{Music}
+
+\begin{enumerate}[i]
+\item Proms 8 Weeks BBC since 1927.
+\item Festivals: Glastonbury. Isle of Wight Festival. The V Festival. 
+In Wales: National Eisteddfod. 
+\item Mercury Prize: best album in UK
+Brit Awards: best solo artist etc
+\item Noted celebrities:
+\begin{itemize}
+\item Henry Purchell (Organist a Westminster)
+\item George Handel (German born, Wrote music for monarchy. Mesiah)
+ \item Gustav Holst (The Planets)
+\item Sir Edward Elgar (Pomp and Circumstance Marches (proms))
+\item Ralph Vaughan Williams (Choir music. English folk music)
+\item Sir William Walton (Coronation music for George and Elizabeth)
+\item Benjamin Britten (Opera, Young person guide to orchestra)
+\end{itemize}
+\end{enumerate}
+
+\paragraph{Theatre}
+
+\begin{enumerate}[i]
+\item West End: The Mousetrap (murder mystery by Agatha Christie) since 1952.
+\item Gilbert and Sullivan comic operas: HMS Pinafore, The Pirates, The Mikado
+\item Pantomime at X-mas: based on fairy stories 
+\item Edinburgh festival (the Fringe): theatre and comedy
+The Laurence Oliver awards (London)
+\end{enumerate}
+
+
+\paragraph{Art}
+
+\begin{enumerate}[i]
+\item Turner Prize: est. 1984 for contemporary art. Hirst and Wright previous winners. 
+\item Noted celebrities:
+\begin{itemize}
+\item Thomas Gainsborough (Portrait painter)
+\item David Allen (Scottish portrait)
+\item Joseph Turner (Modern landscape, From Turner prize)
+\item John Constable (Landscape)
+\item John Lavery (Irish portrait painter)
+\item Henry Moore (Sculptor)
+\item John Petts (Stained Glass)
+\item David Hockney (Pop artist)
+\end{itemize}
+\end{enumerate}
+
+
+\paragraph{Architecture}
+
+\begin{enumerate}[i]
+\item Sir Edwin Lutyens: New Delhi government. Whitehall cenotaph (memorial),
+Lord Rogers: gherkin,
+Zaha Hadid: queen of the curve.
+\item Garden design: Capability Brown, Gertrude Jekyll
+\item Chelsea Flower Show
+\end{enumerate}
+
+\paragraph{Poetry}
+
+\begin{enumerate}[i]
+\item Ancient poems: Beowulf, Canterbury Tales
+\item Poets: Lord Byron, William Wordsworth, William Blake, Wilfred Owen
+\end{enumerate}
+
+
+%---
+
+\subsection{The UK government, the law and your role}
+
+\subsubsection{Courts}
+
+\begin{enumerate}[i]
+\item Minor crime: Magistrates (EWN), Justice of the Peace (S)
+\item Major crime: Crown Court (EWN) 12 jury, Sheriffs Court (S) 15 jury
+\item Youth: Youth Court (EWN), Children's Hearing System (S)
+\item Civil courts:
+County court. Scotland (sheriff court)
+More serious: High court (EWN), Court of Session (S)
+\item Small claims: 10000 (EW), 3000 (SN)
+\end{enumerate}
+
+\subsubsection{Parliaments}
+
+\begin{enumerate}[i]
+\item Parliaments: Devolved powers since 1997
+\item Wales: 60 members, since 1999
+\item Scotland: 129, since 1999
+\item NI: parliament established in 1922 but abolished in 1972. Assembly formed in 1998 after food Friday agreement. 108 members. Suspended several times but not since 2007.
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+\end{document}
