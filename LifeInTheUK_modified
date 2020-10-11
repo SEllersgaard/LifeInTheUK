@@ -1,0 +1,507 @@
+\documentclass{amsart} 
+\usepackage{amssymb} 
+\usepackage{amsmath} 
+\usepackage{verbatim} 
+\usepackage[latin1,applemac] {inputenc} 
+%\usepackage[latin1] {inputenc} 
+\usepackage{amstext} 
+\usepackage{geometry} 
+\usepackage{subfigure}
+\usepackage[pdftex,
+colorlinks=true, urlcolor=blue, anchorcolor=blue, filecolor=darkgreen, linkcolor=red, menucolor=darkblue, citecolor=blue, pagebackref, pdfpagemode=None, bookmarks=true, bookmarksopen=true] {hyperref} 
+\usepackage{hypcap} 
+\pdfcompresslevel=9 
+\usepackage[pdftex]{graphicx} 
+\usepackage{thumbpdf}
+\title{Life in the UK cheat sheet}
+\author{Ghislain Vong}
+
+
+\date{\today}
+
+
+
+\begin{document}
+
+\maketitle
+
+
+\section*{Introduction}
+This note summarises essential information for the Life In the UK test. Passing this test is a requirement to obtain the British Citizenship. The content of the note is a minor augmentation of the personal notes kindly  shared by Simon Ellersgaard in \cite{1}.
+
+
+
+\section{The UK and "Friends''}
+
+\begin{enumerate}
+\item United Kingdom of Great Britain (England, Scotland, \& Wales) and Northern Ireland. 
+\item Scotland, Wales, and Northern Ireland have parliaments with devolved powers. 
+\item Crown dependencies: Channel Islands and Isle of Man
+\item Overseas Territories: St Helena and Falkland Islands.
+\item Commonwealth: 52 member states, organisation has no power over members but can suspend membership, members include Canada, Singapore, Australia.
+\end{enumerate}
+
+
+
+\section{A Long and Illustrious History}
+ 
+
+
+\subsection{Early Britain}
+
+\begin{enumerate}
+\item 10,000 years ago:
+	\begin{itemize}
+		\item Stone age Britain. Hunter-gatherers. Came when Britain was fused with the continent. 
+		\item Prehistoric village: Shara Brae
+	\end{itemize}
+	\item 6,000 years ago: First farmers, Stonehenge located in Wiltshire 
+	\item 4,000 years ago: Bronze age, dead buried in round barrows
+	\item 2,500 years ago: Iron age 
+	\item Romans
+		\begin{itemize}
+			\item 55 BC failed invasion by Caesar
+			\item 43 AD successful invasion by Claudius, lasted till 410 AD. Scotland never conquered
+			\item First Christian communities. Romans left to defend other parts of empire
+			\item Hadrian's wall kept out the Picts (Scots). $2 \times$ forts: Vindolanda and Housesteads.		
+		\end{itemize}
+	\item Year 600: Invasion from Northern tribes, Jutes, Angles and Saxons in what is known as England. Wales, Scotland preserved independence. 
+		\begin{itemize}
+			\item Anglo-Saxons were converted to Christianity by missionaries: St Patrick (Ireland), St Augustine sent from Rome and 1st archbishop of Canterbury
+			\item Anglo-Saxon is basis for modern day English language.
+		\end{itemize}
+	\item Year 789 and Viking invasion: Anglo-Saxon kings continue to dominate England bar partial (east/north) invasion by Vikings from Norway and Denmark in 789.  Danish king (Canute) ruled only briefly.
+	\item Year 1066: Norman conquest by William the Conqueror (from Normandy), mainly England. Norman French influenced English language. Final conquest. Battle of Hastings (English army lost, King Harold died) documented in the Bayeux Tapestry. William ordered a survey of England (the Domesday book). 
+\end{enumerate}
+
+
+\subsection{Middle Ages}
+
+	\begin{enumerate}
+		\item Up to 1485: middle ages. Constant period of war.
+		\item England fought with Wales and Scotland and Ireland. They also fought abroad in the crusades. 
+		\item The 100 Years War (116 years) vs France, where England eventually won in Bataille d'Agincourt, 1415. Stayed in France but left 1450s. 
+		\item 1348: Black death (plague) which killed 1/3 of population
+		\item 1215: First hint of a parliament. Magna Carta developed (aka the Great Charter), in which the King's powers were limited. Defines terms of the King's rule. He now had to consult with the nobility before taking key decisions. Lords: great landowners, nobility, bishops. Commons: knights and wealthy people from town and cities, subject to elections. Similar structure arose in Scotland. First legal system (judges) ruling independently from the rulers based on precedence. 
+		\item $\approx 1400$: assertion of national identity through English as a new unified language: Anglo-Saxon (peasants) fused with Norman-French (nobility) to form English. Canterbury tales printed by Caxton and 1st book printed in English.
+		\item An important trading nation: ppl come to England to work, e.g. glass from Italy, weavers from France, engineers from Germany and 
+		\item 1455: Civil war (of the roses) Lancaster (red) and York (white). Henry Tudor won (red) in Battle of Bosworth but cross marriage (now allies). 
+\end{enumerate}
+
+\subsection{The Tudors}
+	\begin{enumerate}
+		\item Henry VII limited the powers of the nobility, reverses effect of Magna Carta, more power concentration for the King
+ 		\item Henry VIII (1491-1547)
+ 			\begin{itemize}
+ 				\item Henry had six wives (1st wife, Catherine of Aragon, 2nd wife Anne de Boleyn famously executed in Tower of London). 
+ 				\item broke away from Catholic Church in Rome to get a divorce Catherine of Aragon as she could not have any child, creation of Church of England
+ 				\item Same time: reformation/Protestantism on the continent
+ 				\item Wales reunited with England
+				\item Ireland fought over attempts to impose Protestantism 
+		\end{itemize} 			 
+ 	\item Bloody Mary: Henry's son Edward (from 3rd wife) died early. Edward's half-sister ``Bloody'' Mary (from 1st wife) took over. She was Catholic and persecuted Protestants.  She also died early.
+ 	\item Elizabeth I (from 2nd wife Ann de Boleyn) came to power and most popular Monarch of English history
+		\begin{itemize} 		
+			\item she was protestant and made peace / restored church of England
+			\item she defeated in 1588 the Spanish Armada who came to impose Catholicism (commander Sir Francis Drake lead the battle)
+			\item Catholic Mary queen of Scots fled after she was accused of murdering her husband. Her cousin Elizabeth I didn't trust her motives and locked her up in Tower of London for 20 years + execution. 
+		\end{itemize}
+	\item King James and the Plantations: when Elizabeth died her cousin from Scotland king James VI became king James I of England. King James bible. 
+In Catholic Ireland, England was in control by now. Irish people opposed Protestantism. English government encouraged Protestants to settle in Ulster (Northern Ireland), taking over land from Catholics. "Plantations''. James organized several such plantations - seed for Irish conflict.
+	\item King James and son Charles vs the Parliament: these monarches managed parliament poorly. Believe in absolute power of the King. Charles ruled without them for 11 years. He tried to impose a prayer book on Presbyterian church in Scotland leading to Scotland invading England. Charles asked Parliament for help, but the Puritan members said no. Tension in Ireland too: another rebellion by Roman Catholics. Parliament now demanded control of British army. Charles entered parliament (last monarch to do so) to arrest Puritan members but they had fled $\Rightarrow$ Civil war broke out in 1642. 
+	\item Advent of the Republic, 1649: King Charles lost and was executed. England became a Republic (Commonwealth). General Oliver Cromwell went to Ireland to defeat royalist army / establish parliamentary rule. Very bloody. In Scotland Charles son (Charles II) was proclaimed king. Started invasion of England. Cromwell beat him and Charles II fled to Europe (hiding in oak tree). Cromwell now ruled as Lord Protector till his death. 
+\item Restoration time: Charles II back in 1660, friend of parliament. Habeas Corpus act (right to court hearing). Formed Royal society. Isaac Newton.  Great fire in London destroyed St Paul's cathedral, rebuilt by Christopher Wren.
+\item King Charles II succeeded by brother James II who liked Catholicism. 
+\item Glorious Revolution: James II's daughter Mary married to Protestant William of Orange (Netherlands). William asked by protestants in England to invade. Led to Glorious Revolution / no fighting / restoring parliament. James II went to France. He briefly invaded Ireland with French army but was defeated. Also some support for James in Scotland. 
+\end{enumerate}
+
+
+\subsection{A Global Power}
+
+\begin{enumerate}
+	\item Under William and Mary "constitutional monarchy''. 
+	\item 1689: Bill of Rights / limits king's powers. 
+	\item 1695: newspapers allowed to operate without government license.
+	\item Two party system 
+	\item Queen Anne and the Act of Union of 1707: daughter of William and Mary had no surviving children which created uncertainty for succession $\Rightarrow$  Act of Union agreed in 1707 creating Kingdom of Great Britain (Ireland excluded and still separate country). Scotland, although no longer independent, got to keep Presbyterian church. 
+	\item George I Anne's nearest protestant relative, German George I, became king. Bad command of English, so he had to rely on a Prime minister (Walpole - the first!).
+	\item George I's son George II had to deal with clan rebellion in Scotland. Clans lost. After that Highland Clearance wherein small farms destroyed to make way for sheep and cattle. Many Scottish left for North America. Robert Burn (1759-96) famous Scottish poet - Auld Lang Syne. 
+	\item Enlightenment: 
+Adam Smith - economics, David Hume - Philosophy, James Watt - steam engine 
+	\item Industrial revolution - from farm to factory. 18th century, Arkwright - factory owner, known for carding (spinning yarn) machine. 
+Poor working conditions.  Captain Cook mapped Australia. Britain trades all over the world. From India to North America. 
+	\item Slave trade help Britain prosper in the colonies
+			\begin{itemize}
+				\item not allowed in UK
+				\item British ships took West Africans to America and Caribbean under horrible conditions
+				\item 1807, Wilberforce helped making slave trading illegal
+				\item 1833, Emancipation Act abolishes slavery throughout British Empire.
+			\end{itemize}
+	\item US war of independence. Tired of UK imposing tax on colonies. 1776 13 American colonies declared independence. Colonies eventually defeated British army and Britain recognised independence in 1783. 
+	\item War vs Napoleon, France
+		\begin{itemize}
+			\item 1805, British navy won Battle of Trafalgar  but Lord Nelson died
+			\item 1815 war ended with Battle of Waterloo (Napoleon out, Duke of Wellington in). This so-called Iron Duke later became PM.
+		\end{itemize}							
+	\item Act of Union of 1800 seals unification of Ireland with GB: UK and GB and Ireland. Union Jack = English + Irish + Scottish flags, no Welsh flag because it was already united with England by Henri VIII.
+	\item 1837 Queen Victoria came to power
+		\begin{itemize}
+			\item ruled for 64 years
+			\item British Empire expanded, India, Australia, large parts of Africa
+			\item 400 million people total
+			\item emigration encouraged 13M emigrated from UK
+			\item working conditions improved
+			\item railways build throughout Empire. Brunel was an engineer who build Great Western Railway
+			\item Free trade, no taxes
+			\item Britain produced half of world's iron, coal, cotton
+			\item 1851 Great Exhibition in Hyde Park's Crustal Palace
+		\end{itemize}
+	\item Crimean War. 1853-1856. Britain + Turkey + France against Russia. 
+Florence Nightingale (founder of modern nursing) helped wounded soldiers in Turkey. 
+	\item Ireland and 19th century. Poor. Great potato famine one year led to 1M people dead from starvation and disease. Immigration to US and England. Irish nationalism grew. 
+	\item Voting:
+		\begin{itemize}
+			\item Reform acts (1832, 1867) gave more people the right to vote. 
+			\item 1870s saw women's right to keep property after marriage. 
+			\item Emmeline Pankhurst famous suffragette. 1889: set up Women's League. 1918: women over 30 could vote. 1928: women over 21 could vote. 1969: women over 18.
+		\end{itemize}		 
+	\item Boer War in South Africa 1899-1902 ... people started questioned the future of the Empire.  
+\end{enumerate}
+
+
+
+\subsection{20th Century}
+
+
+\begin{enumerate}
+\item Early 20th century life good / elements of welfare state such as free school meals. 
+\item 1914 Archduke of Austria assassinated. Led to WW1 (14-18) together with nationalism in European states. 
+Allied: UK, France, Russia, Japan, Belgium, Serbia, Greece, Italy, Romania, US. 
+Also British Empire by and large. 
+Against: Central Powers: Germany, Austro-Hungarian Empire, Ottoman Empire, Bulgaria.
+2 million died. Allies won 11AM 11 Nov 1918.
+\item Partition of Ireland:
+	\begin{itemize}
+		\item 1913 Britain promised Home Rule to Ireland (to the dismay of Northern protestants), more autonomy
+		\item due to WW1 this got postponed (to the dismay of Irish nationalist)
+		\item 1916: Easter rising. Leaders executed under military law. Then guerrilla war against British army
+		\item 1921 peace treaty, 1922 Ireland became two countries. 
+		\item Republic of Ireland in 1949.
+		\item The \textit{troubles} began in Northern Ireland in the 1960s, as a continued disagreement over NI unionist/loyalist tendencies towards the UK. Ended in Good Friday agreement in 1998. 
+	\end{itemize}
+\item Interwar period. Great depression, but some industries such as automobile / aviation ok. BBC radio started in 1922. TV in 1936.
+\item Hitler to power in 1933, largely due to fines imposed on Germany from Allies after WW1. Hitler invaded Poland in 1939. Britain and France declared war. 
+Allies: UK, France, Poland, Australia, NZ, Canada, SA. 
+Fascists: Germany, Italy, Japan
+Hitler invaded Belgium Netherlands, moved into France. 
+1940 Churchill became PM. 
+1940 Dunkirk evacuation of 300k men from France.
+Blitz over London.
+Japan defeated UK in Singapore.
+1941: Germany attempted invasion of Soviet Union. 
+1941: Japan bombed Pearl Harbour Hawaii. US got involved. 
+Gradually Allies gained control. End of war May 1945. 
+August 45: US nuked Japan. 
+\end{enumerate}
+
+
+\subsection{Since 1945}
+
+\begin{enumerate}
+\item 1945 Attlee becomes PM, social progress
+	\begin{itemize}
+		\item Clement Attlee became Labour PM. Created the NHS
+		\item William Beveridge: Liberal MP behind 1942 report Social Insurance and Allied Services. Foundation of modern welfare state.
+		\item Richard Butler: Conservative MP behind the 1944 Education Act which introduced free secondary education in England and Wales. 
+	\end{itemize}
+\item 1947: Independence granted to $9\times$ countries: India, Pakistan, Sri Lanka, ...
+\item 1949: Joined NATO to resist Soviet Union. 
+\item Dylan Thomas. Welsh poet behind Under Milk Wood and Do Not Go Gentle. Performed on BBC. 
+\item Migration: after WW2 people from Ireland and West Indies came to help rebuild Britain.
+1950s + 25 years: workers from West Indies, India, Pakistan, Bangladesh came to help. 
+\item 1960s: swinging 60s, social reform, divorce and abortion legalized. Equal rights for women in workplace. Supersonic concorde airline with France. Some restrictions to immigration. 
+\item 1970s: recession, inflation, unstable currency. Unions too powerful - hurting UK? Serious unrest in Northern Ireland. 
+Mary Peters Olympic gold medallist who promoted sports in Northern Ireland. 
+\item 1973: UK joins the European Economic Community (EEC) initially created in Treaty of Rome on 25/03/1957 as precursor of the EU. 
+\item 1979-1997: Conservative governments. First Thatcher ($>$ 11 years), then Major ($>$ 6 years). Former: deregulation, privatisation, curb trade unions, Falkland war in 1982. Latter: helped Northern Ireland peace process. 
+\item Roald Dahl: children's author. Charlie and the Chocolate Factory etc. 
+\item 1997-2007: Labour PM Tony Blair. Introduced Scottish parliament and Welsh assembly. Good Friday agreement in Northern Ireland. War in Afghanistan and Iraq. 
+\item 2007-2010: Gordon Brown (L).
+\item 2010-2016: David Cameron (C). Coalition government with Lib Dem. First since 1974. 
+\item 2016-2019: Theresa May (C). Then Boris Johnson. 
+\end{enumerate}
+
+\subsection{Inventions and scientific discoveries}
+	Major scientists from the UK include:
+	\begin{itemize}
+		\item 1928: Penicillin antibiotic invented by Ian Fleming, 1945 Nobel Prize
+		\item 1920's: Ernest Rutherford father of Nuclear Physics, split the atom, key work for Manhattan project during WWII
+		\item 1920's: co-discovery of insulin by McLeod (Scotsman)
+		\item 1930's: invention of the Turing machine, precursor of modern computers
+		\item TV: Logie Baird (Scotsman)
+		\item Radar: Watson-Watt (Scotsman), big radio telescope build by Lovell at Jodrell Bank instrumental in discoveries in astronomy
+		\item DNA: Francis Crick,  Nobel Prize
+		\item Cloning: Wilmott and Campbell
+		\item MRI: Mansfield
+	\end{itemize}
+
+\section{A Modern, Thriving Society}
+
+\subsection{The UK today} 
+	Population 2010: 62 Mill UK. Aging population. 
+\subsection{Religion}
+\begin{enumerate}
+\item 59\% Christian, 4.8\% Muslim, 1.5\% Hindu, 0.8\% Sikh, 0.5\% Jew/Buddhist 
+\item Monarch head of church of England, protestant (since 1530s). Spiritual head: Archbishop of Canterbury (monarch has right to select, but usually done by PM)
+\item Scotland has its own church: Presbyterian church. NO established church of Wales and NI. 
+\item Important days for Christians
+	\begin{itemize}
+		\item 1 March: St David  (Wales)
+		\item 17 March: St Patrick  (NI)
+		\item 23 April: St George Day (England)
+		\item 30 November: St Andrew Day (Scotland)
+	\end{itemize}
+\item  Diwali - Festival of Lights, October or November, 5 days
+\item Hannukah - Jews struggle for religious freedom, 8 days (8 candles, Menorah).
+\item Muslims: Eid al-Fitr celebrates End of Ramadans Eid ul Adha celebrates Abraham's willingness to sacrifice his son Isaac to God.
+\item Misc: Hogmanay 31st of Dec is a big holiday in Scotland, bigger than xmas.
+\end{enumerate}
+
+
+\subsection{Customs and traditions} Mother's day: Sunday 3 weeks before Easter
+Father's day: third Sunday in June.
+Bonfire Night: 5th November. 1605 Catholic attempted bombing of Parliament (Guy Fawkes lead)
+Remembrance Day: 11th November. WW1 ended 11/11 1918 at 11AM. 
+
+
+\subsection{Sport}
+
+\begin{enumerate}
+	\item Cricket: Ashes = test match between England and Australia. Up to 5 days match.
+	\item Football: Most popular. Clubs since 19th century. English Premier League. Clubs against other clubs from other countries: UEFA Champions League. Nations against nations: FIFA and UEFA European Championship. 
+	\item Rugby: clubs since 19th century. Six Nations Championship. Super League. 
+	\item Horse racing: Royal Ascot. Grand National (Aintree, Liverpool and Ayr, Scotland).
+	\item Golf: Open Championship, St Andrew home town of golf
+	\item Tennis: started 19th century. Wimbledon most famous. Only Grand Slam event played on grass.
+	\item Water sports: Sir Francis Chichester first to sail around the world. Annual Oxbridge rowing race. 
+	\item Motor: Annual Formula 1 Grand Prix in Britain. Winners: Hill, Hamilton, Button. 
+	\item Ski: $5\times$ ski centres in Scotland.
+	\item Noted celebrities: 
+		\begin{itemize}
+			\item Roger Bannister (runner, first sub-4-min mile in 1952)		
+			\item Jackie Stewart (formula 1 1960s)
+			\item Bobby Moore (football 1966)
+			\item Francis Chichester (sailing, world round WITH stops 1966-67), followed by Sir Robin Knox-Johnston (WITHOUT stopping) 2y later			
+			\item Mary Peters (pentathlon 1972)		
+			\item Ian Botham (cricket 1980s)
+			\item Torvill and Dean (ice skating 1980s) 
+			\item Steve Redgrave (rowing 1980s)
+			\item Baroness Grey-Thompson (Paralympian racer 1980s)
+			\item Kelly Holmes (runs 2004)
+			\item Ellen MacArthur (sails, fastest solo circumnavigation in 2005)
+			\item Chris Hoy (cyclist olympians 2000s)
+			\item David Weir (paralympian marathonian)
+			\item Bradley Wiggins (cyclist 2000s)
+			\item Mo Farah (distance runner olympian 2000s)
+			\item Ennis-Hill (heptathlon 2000s)
+			\item Andy Murray (tennis 2000s)
+			\item Ellie Simmonds (paralympian swimmer 2008)
+		\end{itemize}
+\end{enumerate}
+
+\subsection{Arts and Culture}
+
+\paragraph{Music}
+
+\begin{enumerate}
+\item Proms 8 Weeks BBC since 1927.
+\item Festivals: Glastonbury. Isle of Wight Festival. The V Festival. 
+In Wales: National Eisteddfod. 
+\item  Brit Awards covers wide range of categories (best solo artistc, etc), whereas Mercury Prize is an alternative for best album in UK
+\item Noted celebrities:
+	\begin{itemize}
+	\item Henry Purchell, Organist a Westminster, 16000s
+	\item George Handel, German born, Wrote music for monarchy, Mesiah, 1700s
+	 \item Gustav Holst, The Planets, 1900s
+	\item Sir Edward Elgar, Pomp and Circumstance Marches (proms), 1900s
+	\item Ralph Vaughan Williams, Choir music, English folk music, 1900s
+	\item Sir William Walton, Coronation music for George and Elizabeth, 1900s
+	\item Benjamin Britten, Opera, Young person guide to orchestra 1900s
+	\end{itemize}
+\end{enumerate}
+
+\paragraph{Theatre}
+
+\begin{enumerate}
+\item West End: The Mousetrap (murder mystery by Agatha Christie) since 1952.
+\item Gilbert and Sullivan comic operas: HMS Pinafore, The Pirates, The Mikado
+\item Pantomime at X-mas: based on fairy stories 
+\item Edinburgh festival called the Fringe: theatre and comedy
+\item The Laurence Olivier awards (London), Laurence Olivier is an actor famous for his roles in Shakespeare plays in the 20th century.
+\end{enumerate}
+
+\paragraph{Art}
+
+\begin{enumerate}
+\item Turner Prize: est. 1984 for contemporary art. Hirst and Wright previous winners. 
+\item Noted celebrities:
+\begin{itemize}
+\item Thomas Gainsborough (Portrait painter)
+\item David Allen (Scottish portrait)
+\item Joseph Turner (Modern landscape, From Turner prize)
+\item John Constable (Landscape)
+\item John Lavery (Irish portrait painter)
+\item Henry Moore (Sculptor)
+\item John Petts (Stained Glass)
+\item David Hockney (Pop artist)
+\end{itemize}
+\end{enumerate}
+
+
+\paragraph{Architecture}
+
+\begin{enumerate}
+\item Architecture
+	\begin{itemize}
+			\item Sir Edwin Lutyens: New Delhi government. Whitehall cenotaph (memorial),
+			\item Lord Rogers: gherkin,
+			\item Zaha Hadid: queen of the curve.
+	\end{itemize}
+\item Garden design: Capability Brown, Gertrude Jekyll
+\item Chelsea Flower Show
+\end{enumerate}
+
+
+\paragraph{Litterature}
+\begin{enumerate}
+\item Ancient poems: Beowulf, Canterbury Tales
+\item Poets: Lord Byron, William Wordsworth, William Blake, Wilfred Owen
+\item Booker Prize Fiction award: from its inception, only novels written by Commonwealth, Irish, and South African (and later Zimbabwean) citizens were eligible to receive the prize; in 2014 it was widened to any English-language novel, a change that proved controversial. Famous winning authors include: Ian McEwan, Hilary Mantel, Julian Barnes) 
+\end{enumerate}
+
+\paragraph{Cuinema}
+\begin{itemize}
+	\item British cinema thrived in the 1930s, Charlie Chaplin, Hitchcock
+	\item Famous filmmakers includes David Lean (Brief Encounter, Lawrence of Arabia), Hugh Hudson (Chariots of Fire)
+\end{itemize}
+
+\paragraph{Leisure}
+\begin{enumerate}
+	\item Gardening. Each country has a flower as symbol: Rose for England, Dafodill for Wales, Shamrock for Ireland and Thistle for Scotland
+	\item Gambling $\geq 18\textrm{y}$
+	\item National lottery $\geq 16\textrm{y}$
+	\item Pubs $\geq 16\textrm{y}$ if accompanied by adults else $\geq 18\textrm{y}$
+	\item Place of interest: National Trust created in 1895, more than 62k volunteers
+\end{enumerate}
+
+\paragraph{Misc}
+\begin{itemize}
+	\item TV license free for $\geq 75\textrm{y}$
+	\item Driving license: after 70y old must sit for exam every 3y.
+\end{itemize}
+
+\section{The UK government, the law and your role}
+
+\subsection{Civil vs criminal law}
+\begin{itemize}
+	\item Criminal law: applies to crimes, investigated by Police or Council, punished by courts
+	\item Civil: settle disputes between individuals or groups
+\end{itemize}
+
+\subsection{Courts}
+
+\begin{enumerate}
+\item Verdicts EWN: guilty or not guilty
+\item Verdicts Scotland: guilty, not guilty, not proven
+\item Civil courts small claims: 10000 (EW), 3000 (SN)
+\item cf summary tables \ref{tab:crimecourts} and \ref{tab:civilcourts}
+\end{enumerate}
+
+
+\begin{table}[h!]
+	 \begin{center}
+		\begin{tabular}{|r||c|c|}
+			\hline
+			 		Type 	&  EWN  & Scotland  \\
+			\hline
+			\hline
+			Minor crime & Magistrates & Justice of the Peace \\
+			\hline
+			Major crime & Crown Court  $12\times $ & Sheriff Court (with Sheriff) $15\times$ \\
+			 && High Court (with Judge) for most serious cases \\
+			\hline
+			Youth crime\footnote{most serious stuff goes to Crown Court} & Youth Court & Children's Hearing System\\
+			\hline
+		\end{tabular}
+		\caption{Crime Courts summary}\label{tab:crimecourts}
+  	\end{center}
+\end{table}
+
+\begin{table}[h!]
+	 \begin{center}
+		\begin{tabular}{|r||c|c|}
+			\hline
+			 		Type 	&  EWN  & Scotland  \\
+			\hline
+			\hline
+			Civil court  & County Court  & Sheriff Court \\
+			\hline
+			Civil court - serious stuff &High Court & Court of Session\\
+			\hline	
+		\end{tabular}
+		\caption{Civil Courts summary}\label{tab:civilcourts}
+  	\end{center}
+\end{table}
+
+\subsection{Parliaments}
+
+\begin{enumerate}
+\item Parliaments: Devolved powers since 1997
+\item NI: parliament established in 1922 but abolished in 1972. Assembly formed in 1998 after Good Friday agreement.  Suspended several times but not since 2007
+\item cf summary table \ref{tab:parliaments}
+\end{enumerate}
+
+\begin{table}[h!]
+	 \begin{center}
+		\begin{tabular}{|r|c|c|}
+			\hline
+			 country			&  member count  & location  \\
+			\hline
+			\hline
+			England & $650$ & Westminster \\
+			\hline
+			Scotland & $129$ MSPs & Holyrood\\
+			\hline
+			Northern Ireland & $108$ & Stormont\\
+			\hline
+			Wales & $60$ AMs & Senedd \\
+			\hline	
+		\end{tabular}
+		\caption{Parliaments summary}\label{tab:parliaments}
+  	\end{center}
+\end{table}
+
+\subsection{UK and international institutions}
+	\begin{itemize}
+		\item Commonwealth: $52\times$ members, no power over members but can suspend membership
+		\item UN Security Council: $15\times$ members to recommend action when there are international crisis
+		\item NATO
+		\item Council of Europe: $47\times$ members, promote human rights, no power to make laws but draws up contgentions and charters (European Convention on Human Rights)
+	\end{itemize}
+
+
+\begin{thebibliography}{1}
+
+
+    \bibitem[1]{1}
+    Simon Ellersgaard,
+    \emph{The Life in the UK test - a field guide},  working paper available on github, 2020.
+
+
+\end{thebibliography}
+
+
+
+
+
+\end{document}
